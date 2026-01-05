@@ -71,12 +71,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,aws&perline=8" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamaury1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamaury1&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamaury1&layout=compact&theme=tokyonight" />
